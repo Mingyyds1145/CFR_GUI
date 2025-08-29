@@ -1,4 +1,4 @@
-**Chinese** **中文**
+**中文**
 
 本项目为 CFR 反编译器 提供了一个基于 Python 的图形化界面 (GUI)，<br>
 方便用户在桌面环境下直接运行反编译任务。<br>
@@ -8,7 +8,7 @@
 关于 CFR 的更多功能与特性，请参考原作者的仓库：<br>
 **https://github.com/leibnitz27/cfr**
 
-**English** **英文**
+**English**
 
 This project provides a Python-based GUI interface for the CFR decompiler,<br>
 making it easier to run decompilation tasks through a graphical desktop environment.<br>
